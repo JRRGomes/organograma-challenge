@@ -14,6 +14,13 @@ A monolithic application designed to manage company organizational charts, featu
 -   **Scalable Architecture**: Designed with maintainability and future scope changes in mind.
 -   **Comprehensive Testing**: Unit and integration tests ensuring reliability and code quality.
 
+## 📸 Screenshots
+
+<img width="1347" height="519" alt="Screenshot from 2025-07-29 22-47-56" src="https://github.com/user-attachments/assets/065a83a3-4b6d-4de7-b90e-be6ad825802f" />
+<img width="1387" height="820" alt="Screenshot from 2025-07-29 22-48-09" src="https://github.com/user-attachments/assets/58255a33-2b27-4815-a421-c06cb0931c07" />
+<img width="1387" height="820" alt="Screenshot from 2025-07-29 22-48-17" src="https://github.com/user-attachments/assets/21271bde-4cdb-4519-aaab-f909bf22146e" />
+<img width="1387" height="820" alt="Screenshot from 2025-07-29 22-48-44" src="https://github.com/user-attachments/assets/1831b2a9-c5e3-4d4f-9ef7-9c005e9e63c2" />
+
 ## 🛠️ Tech Stack
 
 ### Frontend
